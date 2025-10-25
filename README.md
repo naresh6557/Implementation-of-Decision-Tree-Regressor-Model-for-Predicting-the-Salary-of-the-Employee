@@ -18,8 +18,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Program:
 ```
-SANJAY KUMAR B
-212224230242
+Naresh kumar R
+212224040213
 ```
 ```
 import pandas as pd
@@ -52,21 +52,18 @@ dt.predict([[5,6]])
 ```
 ## Output:
 
-<img width="1116" height="314" alt="image" src="https://github.com/user-attachments/assets/60595980-1de2-4ca2-ad85-612fc6a1de6a" />
+<img width="587" height="262" alt="image" src="https://github.com/user-attachments/assets/3f8a194c-f4ee-4b35-b770-30f888f2fcf1" />
 
-<img width="1164" height="232" alt="image" src="https://github.com/user-attachments/assets/e06c2bcd-f4a5-4f0e-85b2-8c022f4a9e30" />
+<img width="585" height="437" alt="image" src="https://github.com/user-attachments/assets/e2cd9def-3078-4146-abf7-54b38743b3c2" />
 
-<img width="1189" height="206" alt="image" src="https://github.com/user-attachments/assets/5c1b799f-1cfb-43dd-b877-6e4c6c2ab7ab" />
+<img width="487" height="251" alt="image" src="https://github.com/user-attachments/assets/61a89f5d-d77c-474e-a9d6-031df541f0db" />
 
-<img width="1005" height="256" alt="image" src="https://github.com/user-attachments/assets/9b0a1779-8ebd-4710-bdce-b3099072f076" />
+<img width="429" height="90" alt="image" src="https://github.com/user-attachments/assets/e921f269-5b4c-4337-ae92-935779080760" />
 
-<img width="1059" height="255" alt="image" src="https://github.com/user-attachments/assets/4cbdc398-a2c7-467f-bdcc-ce24f9c72053" />
+<img width="318" height="47" alt="image" src="https://github.com/user-attachments/assets/93135b06-718f-429e-b531-947b6a5273b4" />
 
-<img width="1026" height="35" alt="image" src="https://github.com/user-attachments/assets/9e6c74e1-63c7-4282-b4da-4cff20cc3188" />
+<img width="1412" height="69" alt="image" src="https://github.com/user-attachments/assets/7b91b5c0-6043-4ccc-8b1c-f1d1ed058b27" />
 
-<img width="838" height="38" alt="image" src="https://github.com/user-attachments/assets/5600731a-b534-4f0a-867b-6a7476a12a27" />
-
-<img width="1517" height="109" alt="image" src="https://github.com/user-attachments/assets/df9761bf-6935-49f3-8b84-0c3ff1efd15e" />
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
